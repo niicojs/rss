@@ -1,0 +1,25 @@
+{
+  "name": "rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niicojs/rss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niicojs/rss/issues"
+  },
+  "homepage": "https://github.com/niicojs/rss#readme",
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "feed": "^4.2.1",
+    "rss-parser": "^3.9.0"
+  }
+}
